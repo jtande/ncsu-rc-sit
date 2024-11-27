@@ -2,7 +2,7 @@
 
 Welcome to the home of the NCSU Research Computing Solutions & Integration Team (RC-SIT).
 
-##Key aspects of Research Computing Solutions and Integration:
+## Key aspects of Research Computing Solutions and Integration:
 
 * **High-Performance Computing (HPC)**: Utilizing powerful computing clusters to handle computationally intensive tasks like simulations, modeling, and large-scale data analysis.
 
@@ -16,9 +16,9 @@ Welcome to the home of the NCSU Research Computing Solutions & Integration Team 
 Here are some steps of how anyone can create and edit new content in this website.
 * The necessary change is carried out in the `_config.yml`.
 * If creating a new menu item, the following need to be done.
-     - create a _newdirectory in the trunk (ncsu-rc-sit).
+     - create a `_newdirectory` in the trunk (ncsu-rc-sit).
      - Add the necessary .html template in the `_includes directory`.
-     - Create the corresponding markdown template "newtemplate.md" in `pages` directory.
+     - Create the corresponding markdown template `newtemplate.md` in [`pages`](https://github.com/jtande/ncsu-rc-sit/tree/main/pages) directory.
      - Images to be added could stay in the repository.	   
 
 1. [Tutorials](https://github.com/jtande/ncsu-rc-sit/tree/main/_tutorials)
